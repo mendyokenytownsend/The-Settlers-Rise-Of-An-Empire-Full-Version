@@ -239,4 +239,4 @@ This repository serves as the official landing page for The Settlers: Rise of an
 **Get the most recent version of The Settlers: Rise of an Empire today!**
 
 ---
-**Last updated:** 2026-11-04 04:03:37 UTC
+**Last updated:** 2026-11-04 12:41:04 UTC
